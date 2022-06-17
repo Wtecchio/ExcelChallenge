@@ -1,5 +1,5 @@
 # Crowdfunding_projects Excel Analysis 
-This project was a demonstration of initial excel data sheet minipulation. 
+This project was a demonstration of initial excel data sheet manipulation. 
 
 **concepts utilized on the project:** <br />
 Pivot-tables <br />
